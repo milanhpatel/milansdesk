@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/milansdesk/static/css/main.2cce8147.chunk.css",
+    "main.js": "/milansdesk/static/js/main.957ef234.chunk.js",
+    "main.js.map": "/milansdesk/static/js/main.957ef234.chunk.js.map",
+    "runtime~main.js": "/milansdesk/static/js/runtime~main.796e380c.js",
+    "runtime~main.js.map": "/milansdesk/static/js/runtime~main.796e380c.js.map",
+    "static/js/2.b41502e9.chunk.js": "/milansdesk/static/js/2.b41502e9.chunk.js",
+    "static/js/2.b41502e9.chunk.js.map": "/milansdesk/static/js/2.b41502e9.chunk.js.map",
+    "index.html": "/milansdesk/index.html",
+    "precache-manifest.ae1a5838911a02d7f1e703e981d24d3a.js": "/milansdesk/precache-manifest.ae1a5838911a02d7f1e703e981d24d3a.js",
+    "service-worker.js": "/milansdesk/service-worker.js",
+    "static/css/main.2cce8147.chunk.css.map": "/milansdesk/static/css/main.2cce8147.chunk.css.map",
+    "static/media/logo.svg": "/milansdesk/static/media/logo.5d5d9eef.svg"
+  }
+}
